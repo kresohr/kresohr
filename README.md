@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kresohr
+- 👋 Hi, I’m Krešimir Iličić
 - 👀 I’m interested in Android Development, Kotlin to be precise.
 - 🌱 I’m currently learning Kotlin fundamentals
 - 📫 How to reach me? Github, LinkedIN, Instagram (@kresohr)
