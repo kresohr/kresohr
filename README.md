@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krešimir Iličić
-- 👀 I’m interested in Android Development, Kotlin to be precise.
-- 🌱 I’m currently working as Junior Android Developer in ASEE.
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning CSS, JS and React.
 - 📫 How to reach me? Github, LinkedIN, Instagram (@kresohr)
 
